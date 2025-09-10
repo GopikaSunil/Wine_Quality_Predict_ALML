@@ -31,7 +31,7 @@ nohup streamlit run app.py --server.address 0.0.0.0 --server.port 8080 > log.txt
 
 ---
 ### Run this in browser
-### http://'EC2-PUBLIC-IP':8080
+http://'EC2-PUBLIC-IP':8080
 
 ---
 
