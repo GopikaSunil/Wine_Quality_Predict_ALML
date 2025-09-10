@@ -1,4 +1,4 @@
-# Wine Quality Prediction App
+# 🍷 Wine Quality Prediction App
 
 ## Description
 A Streamlit web app to predict wine quality (Good/Bad) using a trained RandomForest model. Supports **manual input** and **CSV upload** for batch predictions.
